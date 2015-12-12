@@ -1,3 +1,9 @@
-# armispage
+# Armi's Page
 
-This is a very simple webpage about my dog.
+A simple page about my dog. 
+
+Currently hosted at http://eyspahn.pythonanywhere.com
+
+
+Launch from console with "python armipage.py"
+Uses python 2.7, with flask. 
